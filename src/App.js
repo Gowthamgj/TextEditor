@@ -190,7 +190,7 @@ export default class App extends React.Component {
               this.exportJson();
             }}
           >
-            export
+            Export
           </button>
           <br />
           {this.state.outpuData !== "" ? (
