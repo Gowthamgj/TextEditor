@@ -1,0 +1,156 @@
+{
+  "book": [
+    {
+      "sno": 1,
+      "chaptertitle": "Chapter 1",
+      "paras": [
+        {
+          "type": "para",
+          "content": [
+            { "type": "content", "text": "This is test paragraph" },
+            {
+              "type": "content",
+              "text": "This is bold content",
+              "format": { "bold": true }
+            },
+            {
+              "type": "content",
+              "text": "This is italic content",
+              "format": { "italic": true }
+            },
+            {
+              "type": "content",
+              "text": "This is underline content",
+              "format": { "underline": true }
+            },
+            {
+              "type": "content",
+              "text": "This is strike content",
+              "format": { "strike": true }
+            },
+            {
+              "type": "content",
+              "text": "This is bolditalic content",
+              "format": { "bold": true, "italic": true }
+            }
+          ],
+          "format": { "color": "orange", "fontsize": 14, "afterspace": 20 }
+        }
+      ]
+    },
+    {
+      "sno": 2,
+      "chaptertitle": "Chapter 2",
+      "paras": [
+        {
+          "type": "para",
+          "content": [
+            { "type": "content", "text": "This is test paragraph" },
+            {
+              "type": "content",
+              "text": "This is bold content",
+              "format": { "bold": true }
+            },
+            {
+              "type": "content",
+              "text": "This is italic content",
+              "format": { "italic": true }
+            },
+            {
+              "type": "content",
+              "text": "This is underline content",
+              "format": { "underline": true }
+            },
+            {
+              "type": "content",
+              "text": "This is strike content",
+              "format": { "strike": true }
+            },
+            {
+              "type": "content",
+              "text": "This is bolditalic content",
+              "format": { "bold": true, "italic": true }
+            }
+          ],
+          "format": { "color": "orange", "fontsize": 14, "afterspace": 20 }
+        }
+      ]
+    },
+    {
+      "sno": 3,
+      "chaptertitle": "Chapter 3",
+      "paras": [
+        {
+          "type": "para",
+          "content": [
+            { "type": "content", "text": "This is test paragraph" },
+            {
+              "type": "content",
+              "text": "This is bold content",
+              "format": { "bold": true }
+            },
+            {
+              "type": "content",
+              "text": "This is italic content",
+              "format": { "italic": true }
+            },
+            {
+              "type": "content",
+              "text": "This is underline content",
+              "format": { "underline": true }
+            },
+            {
+              "type": "content",
+              "text": "This is strike content",
+              "format": { "strike": true }
+            },
+            {
+              "type": "content",
+              "text": "This is bolditalic content",
+              "format": { "bold": true, "italic": true }
+            }
+          ],
+          "format": { "color": "orange", "fontsize": 14, "afterspace": 20 }
+        }
+      ]
+    },
+    {
+      "sno": 4,
+      "chaptertitle": "Chapter 4",
+      "paras": [
+        {
+          "type": "para",
+          "content": [
+            { "type": "content", "text": "This is test paragraph" },
+            {
+              "type": "content",
+              "text": "This is bold content",
+              "format": { "bold": true }
+            },
+            {
+              "type": "content",
+              "text": "This is italic content",
+              "format": { "italic": true }
+            },
+            {
+              "type": "content",
+              "text": "This is underline content",
+              "format": { "underline": true }
+            },
+            {
+              "type": "content",
+              "text": "This is strike content",
+              "format": { "strike": true }
+            },
+            {
+              "type": "content",
+              "text": "This is bolditalic content",
+              "format": { "bold": true, "italic": true }
+            }
+          ],
+          "format": { "color": "orange", "fontsize": 14, "afterspace": 20 }
+        }
+      ]
+    }
+  ]
+}

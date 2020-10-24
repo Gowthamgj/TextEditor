@@ -1,0 +1,31 @@
+.App {
+  font-family: sans-serif;
+  text-align: left;
+}
+.editor {
+  width: 100%;
+  height: 300px;
+  overflow-x: scroll;
+  overflow-y: scroll;
+  border: 0;
+}
+.inputarea {
+  width: 400px;
+  height: 230px;
+  overflow: scroll;
+  display: inline-block;
+  margin: 3px;
+}
+.ouputarea {
+  width: 400px;
+  height: 230px;
+  overflow: scroll;
+  display: inline-block;
+  margin: 3px;
+}
+.ouputarea > h3 {
+  display: inline;
+}
+.outdata {
+  margin-top: 20px;
+}
